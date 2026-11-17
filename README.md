@@ -152,29 +152,6 @@ The exercises demonstrated why weak and commonly used passwords are vulnerable t
 
 ---
 
-## 📸 Screenshots & Practical Results
-
-This section contains screenshots documenting the practical execution of both modules.
-
-### W3-PM1 – John the Ripper
-
-- JTR installation and configuration.
-- Johnny GUI setup.
-- PDF hash extraction.
-- Hash file creation.
-- Password-cracking process.
-- Successful PDF access.
-
-### W3-PM2 – Networkwalks Tools
-
-- Networkwalks Hash Calculator.
-- PDF hash extraction.
-- Networkwalks Password Cracker.
-- Password-cracking results.
-- Successful PDF access.
-
----
-
 ## 💡 What I Learned
 
 Through these practical exercises, I gained hands-on experience with password-cracking techniques and learned how different tools can be used to recover passwords from protected PDF documents.
